@@ -1,0 +1,14 @@
+C:\Users\bbouaziz\source\repos\Exam Window\bin\Debug\Exam Window.exe.config
+C:\Users\bbouaziz\source\repos\Exam Window\bin\Debug\Exam Window.exe
+C:\Users\bbouaziz\source\repos\Exam Window\bin\Debug\Exam Window.pdb
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.csproj.AssemblyReference.cache
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam_Window.Form1.resources
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam_Window.Properties.Resources.resources
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.csproj.GenerateResource.cache
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.csproj.CoreCompileInputs.cache
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.exe
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.pdb
+C:\Users\bbouaziz\source\repos\Exam Window\bin\Debug\Exam Window.exe.manifest
+C:\Users\bbouaziz\source\repos\Exam Window\bin\Debug\Exam Window.application
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.exe.manifest
+C:\Users\bbouaziz\source\repos\Exam Window\obj\Debug\Exam Window.application
