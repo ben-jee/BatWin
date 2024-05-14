@@ -36,17 +36,18 @@
             // labelCurrentUser
             // 
             this.labelCurrentUser.AutoSize = true;
+            this.labelCurrentUser.Enabled = false;
             this.labelCurrentUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelCurrentUser.Location = new System.Drawing.Point(12, 14);
             this.labelCurrentUser.Name = "labelCurrentUser";
             this.labelCurrentUser.Size = new System.Drawing.Size(66, 24);
             this.labelCurrentUser.TabIndex = 0;
             this.labelCurrentUser.Text = "label1";
-            this.labelCurrentUser.Click += new System.EventHandler(this.labelCurrentUser_Click);
             // 
             // labelBatteryPercent
             // 
             this.labelBatteryPercent.AutoSize = true;
+            this.labelBatteryPercent.Enabled = false;
             this.labelBatteryPercent.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBatteryPercent.Location = new System.Drawing.Point(12, 38);
             this.labelBatteryPercent.Name = "labelBatteryPercent";
@@ -58,6 +59,7 @@
             // labelBatteryLifeRemaining
             // 
             this.labelBatteryLifeRemaining.AutoSize = true;
+            this.labelBatteryLifeRemaining.Enabled = false;
             this.labelBatteryLifeRemaining.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBatteryLifeRemaining.Location = new System.Drawing.Point(12, 62);
             this.labelBatteryLifeRemaining.Name = "labelBatteryLifeRemaining";
@@ -70,15 +72,15 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(235, 95);
+            this.ClientSize = new System.Drawing.Size(190, 95);
             this.ControlBox = false;
             this.Controls.Add(this.labelBatteryLifeRemaining);
             this.Controls.Add(this.labelBatteryPercent);
             this.Controls.Add(this.labelCurrentUser);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.MaximumSize = new System.Drawing.Size(235, 95);
+            this.MaximumSize = new System.Drawing.Size(190, 95);
             this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(235, 95);
+            this.MinimumSize = new System.Drawing.Size(190, 95);
             this.Name = "Form1";
             this.Opacity = 0.75D;
             this.ShowInTaskbar = false;
